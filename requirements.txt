@@ -1,0 +1,20 @@
+Merge_images:
+-Pillow (PIL)
+-pyPDF2 ~= 2.0
+-os
+-shutil
+-sys
+-json
+
+Unlock_PDF:
+-pikePDF
+
+Manga_Translation:
+-opencv
+-datetime
+-time
+-PyMuPDF
+-deep-translator
+-pdf2image
+-easyOCR
+-pytorch -- (CUDA: 11.8)
